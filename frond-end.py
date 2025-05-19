@@ -1,5 +1,5 @@
 import gradio as gr
-from four import do
+from fourth import do
 import time
 
 def search_and_format_markdown(input_text, use_svd):
